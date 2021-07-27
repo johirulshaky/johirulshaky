@@ -14,5 +14,4 @@
 ### Get In Touch:
 - How to follow me: <a href="https://facebook.com/johirulshaky">Facebook</a>
 - Linkedin profile: <a href="https://linkedin.com/in/johirulshaky/">Linkedin</a>
-- Replit profile: <a href="https://replit.com/@johirulshaky">replit</a>
 - Mail : <a href="mailto:johirul018641.com">Email Us</a>
