@@ -1,7 +1,10 @@
 ### Hi there 👋 I am Johirul Islam! Nice to meet you!
 
 
- <blockquote>I am a Full-stack Web Developer from Dhaka, Bangladesh. I work with html-css template, SASS, Javascript, ES6, jQuery, React.js, Express.js, Node.js, JSON, Ajax, PHP, Laravel, Mysql, Git.  </blockquote>
+ <blockquote>
+ I am a Full-stack Web Developer from Dhaka, Bangladesh. I work with html-css template, SASS, Javascript, ES6, jQuery, React.js, Express.js, Node.js, JSON, Ajax, PHP, Laravel, Mysql, Git.<br><br>
+ wordpress, shopify, webflow
+</blockquote>
 
 ### About me:
 
